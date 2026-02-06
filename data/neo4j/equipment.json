@@ -6,6 +6,8 @@
     {"id":"lv_4","labels":["Level"],"props":{"level":4,"name":"四级","colorName":"紫色","aliases":["紫","4级"]}},
     {"id":"lv_5","labels":["Level"],"props":{"level":5,"name":"五级","colorName":"金色","aliases":["金","5级"]}},
     {"id":"lv_6","labels":["Level"],"props":{"level":6,"name":"六级","colorName":"红色","aliases":["红","6级"]}},
+
+
     {"id":"eq_helmet","labels":["EquipmentType"],"props":{"typeName":"头盔"}},
     {"id":"eq_helmet_1","labels":["Equipment"],"props":{"name":"H70精英头盔","weight":3.58,"durability_new":55,"durability_likenew":46,"durability_damaged":38,"armor_effect":["瞄准速度：-4%","移动速度：-3%"],"headphone_effect":["拾音范围：+10%","降噪能力：中"],"mask_effect":["头盔视野下降：2"]}},
     {"id":"eq_helmet_2","labels":["Equipment"],"props":{"name":"H70夜视精英头盔","weight":3.8,"durability_new":55,"armor_effect":["瞄准速度：-4%","移动速度：-3%"],"headphone_effect":["拾音范围：+10%","降噪能力：中"],"mask_effect":["头盔视野下降：2"]}},
@@ -33,6 +35,8 @@
     {"id":"eq_helmet_24","labels":["Equipment"],"props":{"name":"奔尼帽","weight":0.37,"durability_new":10,"durability_likenew":8,"durability_damaged":7,"armor_effect":["瞄准速度：-4%","移动速度：-4%"],"headphone_effect":["拾音范围：+20%","降噪能力：中"]}},
     {"id":"eq_helmet_25","labels":["Equipment"],"props":{"name":"安保头盔","weight":0.55,"durability_new":10,"durability_likenew":8,"durability_damaged":7,"armor_effect":["瞄准速度：-3%","移动速度：-1%"],"headphone_effect":["拾音范围：+30%","降噪能力：中"]}},
     {"id":"eq_helmet_26","labels":["Equipment"],"props":{"name":"老式钢盔","weight":1.01,"durability_new":10,"durability_likenew":8,"durability_damaged":7,"armor_effect":["瞄准速度：-6%","移动速度：-4%"],"headphone_effect":["拾音范围：-10%","降噪能力：高"],"mask_effect":["头盔视野下降：3"]}},
+
+
     {"id":"eq_ballisticvest","labels":["EquipmentType"],"props":{"typeName":"护甲"}},
     {"id":"eq_ballisticvest_1","labels":["Equipment"],"props":{"name":"HA-2重型防弹衣","weight":6.86,"durability_new":115,"durability_likenew":97,"durability_damaged":80,"armor_effect":["瞄准速度：-1%","移动速度：-3%"]}},
     {"id":"eq_ballisticvest_2","labels":["Equipment"],"props":{"name":"泰坦防弹衣","weight":12.04,"durability_new":150,"armor_effect":["瞄准速度：-12%","移动速度：-8%"]}},
@@ -59,6 +63,8 @@
     {"id":"eq_ballisticvest_23","labels":["Equipment"],"props":{"name":"尼龙防弹衣","weight":1.7,"durability_new":25,"durability_likenew":21,"durability_damaged":17,"armor_effect":[]}},
     {"id":"eq_ballisticvest_24","labels":["Equipment"],"props":{"name":"安保防弹衣","weight":2.44,"durability_new":20,"durability_likenew":17,"durability_damaged":14,"armor_effect":[]}},
     {"id":"eq_ballisticvest_25","labels":["Equipment"],"props":{"name":"摩托马甲","weight":2.44,"durability_new":20,"durability_likenew":17,"durability_damaged":14,"armor_effect":[]}},
+
+
     {"id":"eq_backpack","labels":["EquipmentType"],"props":{"typeName":"背包"}},
     {"id":"eq_backpack_1","labels":["Equipment"],"props":{"name":"GT0重型战术包","weight":3.32,"slots":45,"max_connected_slots":"5*9","effect":["移动速度：-1%"]}},
     {"id":"eq_backpack_2","labels":["Equipment"],"props":{"name":"重型登山包","weight":2.85,"slots":40,"max_connected_slots":"5*5","effect":["移动速度：-2%"]}},
@@ -86,6 +92,8 @@
     {"id":"eq_backpack_24","labels":["Equipment"],"props":{"name":"旅行背包","weight":0.88,"slots":10,"max_connected_slots":"2*5","effect":[]}},
     {"id":"eq_backpack_25","labels":["Equipment"],"props":{"name":"运动背包","weight":0.81,"slots":8,"max_connected_slots":"2*4","effect":[]}},
     {"id":"eq_backpack_26","labels":["Equipment"],"props":{"name":"斜挎包","weight":0.75,"slots":6,"max_connected_slots":"2*3","effect":[]}},
+
+
     {"id":"eq_chestrig","labels":["EquipmentType"],"props":{"typeName":"胸挂"}},
     {"id":"eq_chestrig_1","labels":["Equipment"],"props":{"name":"DAR突击手胸挂","weight":2.28,"slots":24,"max_connected_slots":"2*3","effect":["瞄准速度：-5%","移动速度：-1%"]}},
     {"id":"eq_chestrig_2","labels":["Equipment"],"props":{"name":"黑鹰野战胸挂","weight":2.03,"slots":22,"max_connected_slots":"2*3","effect":["瞄准速度：-3%","移动速度：-1%"]}},
